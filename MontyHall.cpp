@@ -7,6 +7,9 @@ $$$$$$$$$$$$$$$$$$
 Feature 1 change
 $$$$$$$$$$$$$$$$$$
 
+Feature 2 change
+$$$$$$$$$$$$$$$$$$
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>
