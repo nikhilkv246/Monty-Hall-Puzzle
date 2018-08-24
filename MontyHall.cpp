@@ -4,6 +4,9 @@ $$$$$$$$$$$$$$$$$$
 Develop change
 $$$$$$$$$$$$$$$$$$
 
+Feature 1 change
+$$$$$$$$$$$$$$$$$$
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>
